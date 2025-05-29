@@ -11,7 +11,7 @@ Optional: Docker
 1. Clone the repository
 
 git clone https://github.com/glock85/FullStack-Toolbox-Challenge
-Clone this project and navigate into the folder (`cd toolbox-challenge`).
+Clone this project and navigate into the folder (`cd fullstack-toolbox-challenge`).
 
 2. Run with Docker (optional)
 You can use Docker to spin up the full environment easily with one command.
